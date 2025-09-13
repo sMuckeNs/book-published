@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Välkommen!
 ---
 
 Hitta listan!
