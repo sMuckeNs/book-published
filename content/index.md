@@ -1,8 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Välkommen
 ---
 
-Hitta listan!
-
->[!Hint] Hint!
->Titta till höger
+Hitta listan
+>[!Hint]Hint
+> Antingen till höger eller i menyn!
